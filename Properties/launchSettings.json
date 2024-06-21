@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FindLocks": {
+      "commandName": "Project",
+      "commandLineArgs": "FindLocks"
+    }
+  }
+}
